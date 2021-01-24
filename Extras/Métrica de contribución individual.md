@@ -4,7 +4,7 @@ Este documento muestra las diferentes características que se toman en cuenta pa
 
 El proceso de métrica de contribución será de un 100% entre todos para cada entrega, por lo que se harán 2 porcentajes, los cuales se van a promediar al final. Esto debido a que habrán muchas partes en las que ciertos integrantes aportarán más que otros.
 
-- La primera pauta trata sobre el número de tareas que se hizo cada integrante(Las tareas tienen cierto puntaje, ya que algunas son más complicadas o largas que otras, por lo que les pusimos un determinado puntaje a partir de la complejidad de esta).
+- La primera pauta trata sobre el número de tareas que hizo cada integrante(Las tareas tienen cierto puntaje, ya que algunas son más complicadas o largas que otras, por lo que les pusimos un determinado puntaje a partir de la complejidad de esta).
 - La segunda pauta el número de ocasiones en las que alguien ayudó a otros en sus responsabilidades o tareas (En este caso, las ayudas solo valen un 20% del promedio total).
 
 ## Tareas y Primera Entrega
